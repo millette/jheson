@@ -1,6 +1,6 @@
 {
   "name": "jheson",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "jheson.js",
   "bin": "cli.js",
